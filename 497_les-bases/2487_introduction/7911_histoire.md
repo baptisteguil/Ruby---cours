@@ -1,0 +1,1 @@
+Le Ruby a été crée par Yukihiro Matsumoto en 1993.

@@ -1,0 +1,1 @@
+N'hésitez-pas à m'envoyer votre code par MP pour que je le corrige. Si vous êtes coincé et que vous avez besoin d'aide, allez faire un tour sur le [forum ](http://zestedesavoir.com/forums/savoirs/programmation/).

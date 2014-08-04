@@ -1,0 +1,1 @@
+Le but de ce TP est de vous entrainer avec les conditions. Je vais vous guider pas à pas sur le chemin à prendre. Allons-y ! :pirate:

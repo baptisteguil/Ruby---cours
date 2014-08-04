@@ -1,0 +1,1 @@
+Comment installer Ruby et le prendre en main ? Nous allons le découvrir dans ce chapitre.

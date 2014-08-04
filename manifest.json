@@ -1,0 +1,190 @@
+{
+    "title": "Ruby", 
+    "description": "", 
+    "type": "BIG", 
+    "introduction": "introduction.md", 
+    "conclusion": "conclusion.md", 
+    "parts": [
+        {
+            "pk": 497, 
+            "title": "Les Bases", 
+            "introduction": "497_les-bases/introduction.md", 
+            "conclusion": "497_les-bases/conclusion.md", 
+            "chapters": [
+                {
+                    "pk": 2487, 
+                    "title": "Introduction", 
+                    "introduction": "497_les-bases/2487_introduction/introduction.md", 
+                    "conclusion": "497_les-bases/2487_introduction/conclusion.md", 
+                    "extracts": [
+                        {
+                            "pk": 7912, 
+                            "title": "Installation", 
+                            "text": "497_les-bases/2487_introduction/7912_installation.md"
+                        }, 
+                        {
+                            "pk": 7913, 
+                            "title": "Prise en main", 
+                            "text": "497_les-bases/2487_introduction/7913_prise-en-main.md"
+                        }
+                    ]
+                }, 
+                {
+                    "pk": 2488, 
+                    "title": "Nombres, arithmétique, variables et chaines de caractère", 
+                    "introduction": "497_les-bases/2488_nombres-arithmetique-variables-et-chaines-de-caractere/introduction.md", 
+                    "conclusion": "497_les-bases/2488_nombres-arithmetique-variables-et-chaines-de-caractere/conclusion.md", 
+                    "extracts": [
+                        {
+                            "pk": 7914, 
+                            "title": "Opérations", 
+                            "text": "497_les-bases/2488_nombres-arithmetique-variables-et-chaines-de-caractere/7914_operations.md"
+                        }, 
+                        {
+                            "pk": 7915, 
+                            "title": "Variables", 
+                            "text": "497_les-bases/2488_nombres-arithmetique-variables-et-chaines-de-caractere/7915_variables.md"
+                        }, 
+                        {
+                            "pk": 7916, 
+                            "title": "Chaines de caractères", 
+                            "text": "497_les-bases/2488_nombres-arithmetique-variables-et-chaines-de-caractere/7916_chaines-de-caracteres.md"
+                        }, 
+                        {
+                            "pk": 9590, 
+                            "title": "Conversion de variables", 
+                            "text": "497_les-bases/2488_nombres-arithmetique-variables-et-chaines-de-caractere/9590_conversion-de-variables.md"
+                        }, 
+                        {
+                            "pk": 9592, 
+                            "title": "La méthode gets", 
+                            "text": "497_les-bases/2488_nombres-arithmetique-variables-et-chaines-de-caractere/9592_la-methode-gets.md"
+                        }
+                    ]
+                }, 
+                {
+                    "pk": 2489, 
+                    "title": "Les conditions et les boucles", 
+                    "introduction": "497_les-bases/2489_les-conditions-et-les-boucles/introduction.md", 
+                    "conclusion": "497_les-bases/2489_les-conditions-et-les-boucles/conclusion.md", 
+                    "extracts": [
+                        {
+                            "pk": 7917, 
+                            "title": "if ... else", 
+                            "text": "497_les-bases/2489_les-conditions-et-les-boucles/7917_if-else.md"
+                        }, 
+                        {
+                            "pk": 7918, 
+                            "title": "case ... when", 
+                            "text": "497_les-bases/2489_les-conditions-et-les-boucles/7918_case-when.md"
+                        }, 
+                        {
+                            "pk": 7919, 
+                            "title": "while", 
+                            "text": "497_les-bases/2489_les-conditions-et-les-boucles/7919_while.md"
+                        }, 
+                        {
+                            "pk": 7920, 
+                            "title": "for", 
+                            "text": "497_les-bases/2489_les-conditions-et-les-boucles/7920_for.md"
+                        }
+                    ]
+                }, 
+                {
+                    "pk": 3062, 
+                    "title": "Mini-TP : Année bissextile", 
+                    "introduction": "497_les-bases/3062_mini-tp-annee-bissextile/introduction.md", 
+                    "conclusion": "497_les-bases/3062_mini-tp-annee-bissextile/conclusion.md", 
+                    "extracts": [
+                        {
+                            "pk": 9601, 
+                            "title": "Sujet", 
+                            "text": "497_les-bases/3062_mini-tp-annee-bissextile/9601_sujet.md"
+                        }, 
+                        {
+                            "pk": 9602, 
+                            "title": "Aide", 
+                            "text": "497_les-bases/3062_mini-tp-annee-bissextile/9602_aide.md"
+                        }
+                    ]
+                }, 
+                {
+                    "pk": 2490, 
+                    "title": "Les tableaux", 
+                    "introduction": "497_les-bases/2490_les-tableaux/introduction.md", 
+                    "conclusion": "497_les-bases/2490_les-tableaux/conclusion.md", 
+                    "extracts": [
+                        {
+                            "pk": 7921, 
+                            "title": "Les données d'un tableau", 
+                            "text": "497_les-bases/2490_les-tableaux/7921_les-donnees-dun-tableau.md"
+                        }, 
+                        {
+                            "pk": 7922, 
+                            "title": "Parcourir le contenu d'un tableau avec Do", 
+                            "text": "497_les-bases/2490_les-tableaux/7922_parcourir-le-contenu-dun-tableau-avec-do.md"
+                        }
+                    ]
+                }, 
+                {
+                    "pk": 2491, 
+                    "title": "Les fonctions", 
+                    "introduction": "497_les-bases/2491_les-fonctions/introduction.md", 
+                    "conclusion": "497_les-bases/2491_les-fonctions/conclusion.md", 
+                    "extracts": [
+                        {
+                            "pk": 7925, 
+                            "title": "Priicipe et schéma d'une fonction", 
+                            "text": "497_les-bases/2491_les-fonctions/7925_priicipe-et-schema-dune-fonction.md"
+                        }, 
+                        {
+                            "pk": 7926, 
+                            "title": "Les arguments", 
+                            "text": "497_les-bases/2491_les-fonctions/7926_les-arguments.md"
+                        }
+                    ]
+                }, 
+                {
+                    "pk": 2492, 
+                    "title": "TP", 
+                    "introduction": "497_les-bases/2492_tp/introduction.md", 
+                    "conclusion": "497_les-bases/2492_tp/conclusion.md", 
+                    "extracts": []
+                }
+            ]
+        }, 
+        {
+            "pk": 501, 
+            "title": "Programmation Orientée Objet", 
+            "introduction": "501_programmation-orientee-objet/introduction.md", 
+            "conclusion": "501_programmation-orientee-objet/conclusion.md", 
+            "chapters": []
+        }, 
+        {
+            "pk": 645, 
+            "title": "Annexe", 
+            "introduction": "645_annexe/introduction.md", 
+            "conclusion": "645_annexe/conclusion.md", 
+            "chapters": [
+                {
+                    "pk": 3058, 
+                    "title": "Ecrire le code dans des fichiers", 
+                    "introduction": "645_annexe/3058_ecrire-le-code-dans-des-fichiers/introduction.md", 
+                    "conclusion": "645_annexe/3058_ecrire-le-code-dans-des-fichiers/conclusion.md", 
+                    "extracts": [
+                        {
+                            "pk": 9587, 
+                            "title": "Installer Notepad++", 
+                            "text": "645_annexe/3058_ecrire-le-code-dans-des-fichiers/9587_installer-notepad.md"
+                        }, 
+                        {
+                            "pk": 9588, 
+                            "title": "Exécuter le code", 
+                            "text": "645_annexe/3058_ecrire-le-code-dans-des-fichiers/9588_executer-le-code.md"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
